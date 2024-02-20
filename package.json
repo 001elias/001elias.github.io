@@ -3,7 +3,7 @@
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "homepage": "https://001elias.github.io",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "author": "Elias Barrellet <ebarrellet@gmail.com> (https://github.com/001elias)",
   "dependencies": {
     "@popperjs/core": "^2.1.1",
