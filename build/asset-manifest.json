@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/001elias.github.io/static/css/main.307a871c.chunk.css",
+    "main.js": "/001elias.github.io/static/js/main.5068a98b.chunk.js",
+    "main.js.map": "/001elias.github.io/static/js/main.5068a98b.chunk.js.map",
+    "runtime-main.js": "/001elias.github.io/static/js/runtime-main.de5a8e96.js",
+    "runtime-main.js.map": "/001elias.github.io/static/js/runtime-main.de5a8e96.js.map",
+    "static/css/2.de424728.chunk.css": "/001elias.github.io/static/css/2.de424728.chunk.css",
+    "static/js/2.8fa335fd.chunk.js": "/001elias.github.io/static/js/2.8fa335fd.chunk.js",
+    "static/js/2.8fa335fd.chunk.js.map": "/001elias.github.io/static/js/2.8fa335fd.chunk.js.map",
+    "index.html": "/001elias.github.io/index.html",
+    "precache-manifest.ebb40b09b34b87387aeea553fcf9a0ee.js": "/001elias.github.io/precache-manifest.ebb40b09b34b87387aeea553fcf9a0ee.js",
+    "service-worker.js": "/001elias.github.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/001elias.github.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.307a871c.chunk.css.map": "/001elias.github.io/static/css/main.307a871c.chunk.css.map",
+    "static/js/2.8fa335fd.chunk.js.LICENSE.txt": "/001elias.github.io/static/js/2.8fa335fd.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/001elias.github.io/static/media/resume.b50fcc8e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5a8e96.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.8fa335fd.chunk.js",
+    "static/css/main.307a871c.chunk.css",
+    "static/js/main.5068a98b.chunk.js"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Elias",
+  "MiddleName": "",
+  "LastName": "Barrellet",
+  "devDesc": "| Full stack developer | Athlete | Musician |",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/001elias",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/eliasbarrellet/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "2900elias",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I'm full stack developer with almost 2 years of experience in web developement. I bring a comprehensive skill set in both front-end and back-end technologies, combined with a problem-solving mindset and a keen interest in developing scalable web applications. I also love to play piano and solving problems!",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "001elias",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
